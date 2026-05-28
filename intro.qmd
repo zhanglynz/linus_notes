@@ -1,0 +1,12 @@
+# Introduction
+
+p. xvii
+
+> graphical user interfaces make easy tasks easy, 
+while command line interfaces make difficult tasks possible
+>
+
+p. xviii 
+
+> It's not that it's so hard, but rather it's so vast. 
+The average Linux system has literally thousands of programs you can employ on the command line. Consider yourself warned; learning the command line is not a casual endeavor.

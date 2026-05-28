@@ -1,0 +1,20 @@
+# What Is the Shell?
+
+p. 2
+
+> When we speak of the command line, we are really referring to the **shell**. The shell is a program that takes keyboard commands and passes them to the operating system to carry out.
+>
+
+> `bash` is an enhanced replacement for `sh`
+>
+
+> When using a graphical user interface (GUI), we need another program called a **terminal emulator** to interact with the shell. [It] gives us access to the shell
+
+p. 3
+
+**using up, down, left and right arrows**
+
+p. 4
+
+Use **Shift-Ctrl-c** and **Shift-Ctrl-v** instead when using the terminal window.
+

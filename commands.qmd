@@ -1,0 +1,10 @@
+# Commands
+
+- `date`
+- `uptime` 
+- `df`
+- `free`
+- `exit`
+- `pwd`
+- `cd`
+- `ls`

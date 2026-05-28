@@ -1,0 +1,24 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Learning Linus Notes"
+  author: "Lingyun Zhang"
+  date: today
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - ch1.qmd
+    - ch2.qmd
+    - commands.qmd
+
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

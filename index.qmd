@@ -1,0 +1,3 @@
+# Preface {.unnumbered}
+
+My notes on reading **The Linux Command Line** 7th Internet Edition, by William Shotts.

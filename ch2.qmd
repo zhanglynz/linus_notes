@@ -1,0 +1,30 @@
+# Navigation
+
+p. 7
+
+> Note that unlike Windows, which has a separate filesystem tree for each storage device, Unix-like systems such as Linux always have **a single filesystem tree**, regardless of how many drives or storage devices are attached to the computer.
+
+
+p. 8
+
+> **At any given time, we are inside a single directory**, and we can see the files contained in the directory and the pathway to the directory above us (called the parent directory) and any subdirectories below us.
+>
+
+p. 9
+
+> An **absolute pathname** begins with the root directory and follows the tree branch by branch until the path to the desired directory or file is completed.
+
+> Where an absolute pathname starts from the root directory and leads to its destination, a **relative pathname starts from the working directory**.
+
+p. 10
+
+> The `.` notation refers to the working directory, and the `..` notation refers to the working directory's parent directory.
+
+p. 11
+
+> Filenames that begin with a period character are hidden. This means that ls will not list them unless you say `ls -a`.
+
+p. 12
+
+> Filenames and commands in Linux, like Unix, are **case sensitive**.
+

@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Linus Notes",
+    "section": "",
+    "text": "Preface\nMy notes on reading The Linux Command Line 7th Internet Edition, by William Shotts.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "xvii\n\n\ngraphical user interfaces make easy tasks easy, while command line interfaces make difficult tasks possible\n\n\nxviii\n\n\nIt’s not that it’s so hard, but rather it’s so vast. The average Linux system has literally thousands of programs you can employ on the command line. Consider yourself warned; learning the command line is not a casual endeavor.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "ch1.html",
+    "href": "ch1.html",
+    "title": "2  What Is the Shell?",
+    "section": "",
+    "text": "p. 2\n\nWhen we speak of the command line, we are really referring to the shell. The shell is a program that takes keyboard commands and passes them to the operating system to carry out.\n\n\nbash is an enhanced replacement for sh\n\n\nWhen using a graphical user interface (GUI), we need another program called a terminal emulator to interact with the shell. [It] gives us access to the shell\n\np. 3\nusing up, down, left and right arrows\np. 4\nUse Shift-Ctrl-c and Shift-Ctrl-v instead when using the terminal window.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What Is the Shell?</span>"
+    ]
+  },
+  {
+    "objectID": "ch2.html",
+    "href": "ch2.html",
+    "title": "3  Navigation",
+    "section": "",
+    "text": "p. 7\n\nNote that unlike Windows, which has a separate filesystem tree for each storage device, Unix-like systems such as Linux always have a single filesystem tree, regardless of how many drives or storage devices are attached to the computer.\n\np. 8\n\nAt any given time, we are inside a single directory, and we can see the files contained in the directory and the pathway to the directory above us (called the parent directory) and any subdirectories below us.\n\np. 9\n\nAn absolute pathname begins with the root directory and follows the tree branch by branch until the path to the desired directory or file is completed.\n\n\nWhere an absolute pathname starts from the root directory and leads to its destination, a relative pathname starts from the working directory.\n\np. 10\n\nThe . notation refers to the working directory, and the .. notation refers to the working directory’s parent directory.\n\np. 11\n\nFilenames that begin with a period character are hidden. This means that ls will not list them unless you say ls -a.\n\np. 12\n\nFilenames and commands in Linux, like Unix, are case sensitive.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Navigation</span>"
+    ]
+  },
+  {
+    "objectID": "commands.html",
+    "href": "commands.html",
+    "title": "4  Commands",
+    "section": "",
+    "text": "date\nuptime\ndf\nfree\nexit\npwd\ncd\nls",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Commands</span>"
+    ]
+  }
+]
