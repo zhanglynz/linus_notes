@@ -42,11 +42,11 @@
   {
     "objectID": "commands.html",
     "href": "commands.html",
-    "title": "4  Commands",
+    "title": "5  Commands",
     "section": "",
-    "text": "date\nuptime\ndf\nfree\nexit\npwd\ncd\nls",
+    "text": "date\nuptime\ndf\nfree\nexit\npwd\ncd\nls\nfile\nless",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Commands</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Commands</span>"
     ]
   }
 ]
